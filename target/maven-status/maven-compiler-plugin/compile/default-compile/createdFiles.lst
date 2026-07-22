@@ -1,0 +1,6 @@
+com\app\Aplicacao.class
+com\model\Consulta.class
+com\model\Paciente.class
+com\model\Medico.class
+com\model\Pessoa.class
+com\view\Menu.class
